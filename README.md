@@ -26,7 +26,7 @@ This project allows teachers/admins to manage students, courses, and attendance 
 
 | Layer | Technologies |
 |--------|---------------|
-| **Frontend** | Angular 17, HTML, CSS, Bootstrap |
+| **Frontend** | Angular 16, HTML, CSS, Bootstrap |
 | **Backend** | Java 17, Spring Boot 3, Spring MVC, Spring Data JPA (Hibernate) |
 | **Database** | MySQL |
 | **Tools / IDEs** | Eclipse (Backend), VS Code (Frontend) |
